@@ -5,7 +5,7 @@
     letter-spacing: -0.05em;
     line-height: 0.9;
 }
-.c-vote_h2{
+.c-vote__h2{
     color: var(--clr-slate600);
     font-size: var(--size-3xl);
 }
