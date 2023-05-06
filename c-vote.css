@@ -48,3 +48,14 @@ span{
 .c-vote__description{
     margin-bottom: 3rem;
 }
+
+@media (min-width: 475px) {
+    body{
+        padding: 20px;
+    }
+}
+@media(min-width: 640px) {
+    body{
+        padding: 10px;
+    }
+}
