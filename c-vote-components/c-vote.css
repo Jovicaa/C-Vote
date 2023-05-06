@@ -1,0 +1,41 @@
+.c-vote__h1{
+    color: var(--clr-slate400);
+    font-size: var(--size-4xl);
+    text-transform: uppercase;
+    letter-spacing: -0.05em;
+    line-height: 0.9;
+}
+p{
+    max-width: 70ch;
+    min-width: 50ch;
+    color: var(--clr-slate400);
+}
+
+.c-vote__paragraph{
+    color: var(--clr-slate600);
+    max-width: 60ch;
+    font-size: var(--size-sm);
+}
+
+span{
+    color: var(--clr-rose);
+}
+
+.c-vote__list{
+    align-items: left;
+    color: var(--clr-slate600);
+    max-width: 60ch;
+    font-size: var(--size-sm);
+}
+.c-vote__stack{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+
+    color: var(--clr-slate600);
+    font-size: var(--size-4xl);
+}
+
+.c-vote__description{
+    margin-bottom: 3rem;
+}
