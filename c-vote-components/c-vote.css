@@ -38,4 +38,8 @@ span{
 
 .c-vote__description{
     margin-bottom: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
