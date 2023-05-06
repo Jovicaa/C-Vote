@@ -1,3 +1,5 @@
+
+
 .c-vote__h1{
     color: var(--clr-slate400);
     font-size: var(--size-4xl);
@@ -46,4 +48,16 @@ span{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+
+@media (min-width: 475px){
+    body{
+        padding: 20px;
+    }
+}
+
+@media (min-width: 640px){
+    body{
+        padding: 0;
+    } 
 }
