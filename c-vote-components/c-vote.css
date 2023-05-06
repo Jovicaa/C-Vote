@@ -13,7 +13,7 @@
 }
 p{
     max-width: 70ch;
-    min-width: 50ch;
+    min-width: 40ch;
     color: var(--clr-slate400);
 }
 
