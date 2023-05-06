@@ -5,6 +5,10 @@
     letter-spacing: -0.05em;
     line-height: 0.9;
 }
+.c-vote_{
+    color: var(--clr-slate400);
+    font-size: var(--size-3xl);
+}
 p{
     max-width: 70ch;
     min-width: 50ch;
