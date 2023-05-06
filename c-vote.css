@@ -1,3 +1,8 @@
+body{
+    padding-left:5px;
+    padding-right:5px;
+}
+
 .c-vote__h1{
     color: var(--clr-slate400);
     font-size: var(--size-4xl);
